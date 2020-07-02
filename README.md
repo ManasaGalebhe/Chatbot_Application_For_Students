@@ -1,1 +1,2 @@
-# Chatbot_Application_For_Students
+# StudentHelpService
+Software engineering project related to students.
